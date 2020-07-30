@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(78, 167, 250);
+}
+h1, h3, h4
+{
+    color: rgb(255, 255, 255);
+}
+#container {
+    float: left;
+    border: 3px solid rgb(0, 0, 0);
+    width: 800px;
+    height: 800px;
+    margin-left: 100px;
+    
+}
+#controls
+{
+    font: message-box;
+    font-size: inherit;
+    background-color: rgb(78, 167, 250);
+    margin-left: 100px;
+    float: left;
+    width: 275px;
+    height: 400px;
+    padding-left: 10px;
+}
+#green
+{
+    color: green;
+}
+#blue
+{
+    color: blue;
+}
+#white
+{
+    color: orange;
+}
+#yellow
+{
+    color: yellow;
+}
